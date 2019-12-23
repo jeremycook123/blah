@@ -1,6 +1,6 @@
 package blah
 
-const DB_SECRET_PASSWORD = "secret"
+const dbSecretPassword = "secret"
 
 //Hello returns a hello string
 func Hello() string {
